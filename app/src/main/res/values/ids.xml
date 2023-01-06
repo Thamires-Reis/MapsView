@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="gaelic_name" type="id" />
+    <item name="title_id" type="id" />
+    <item name="title_lat" type="id" />
+    <item name="title_long" type="id" />
+    <item name="title_location" type="id" />
+    <item name="title_name" type="id" />
+    <item name="title_type" type="id" />
+    <item name="img" type="id" />
+</resources>
